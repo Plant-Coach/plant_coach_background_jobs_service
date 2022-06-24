@@ -1,0 +1,2 @@
+class CheckAlertsService
+end
